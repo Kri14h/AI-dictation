@@ -1,0 +1,6 @@
+{
+  "name": "AI Dictation Challenge",
+  "description": "An interactive, dark-themed spelling dictation game powered by direct Gemini API integration and native web speech synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
