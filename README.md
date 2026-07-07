@@ -57,4 +57,3 @@ To run this project locally on your machine, follow these steps:
    ```
 
 5. Open your browser and navigate to `http://localhost:5173`.
-6. 
